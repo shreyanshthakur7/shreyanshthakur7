@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="www.linkedin.com/in/
-shreyansh-thakur-72b3b5304">Linked in</a>
+shreyansh-thakur-72b3b5304"><img src="download.png"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
